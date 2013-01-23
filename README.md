@@ -1,2 +1,5 @@
 wanghu
 ======
+<?php
+
+phpinfo();
